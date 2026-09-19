@@ -4,10 +4,5 @@
   "private": true,
   "description": "Premium personal portfolio for Nauman Qureshi — Web Designer & Developer.",
   "author": "Nauman Qureshi",
-  "license": "MIT",
-  "scripts": {
-    "dev": "npx serve .",
-    "start": "npx serve .",
-    "build": "echo \"Static site — no build step required.\""
-  }
+  "license": "MIT"
 }
